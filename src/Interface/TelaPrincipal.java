@@ -7,7 +7,7 @@ TELEFONE VARCHAR(15),
 CELULAR VARCHAR(15),
 ENDERECO VARCHAR(150),
 EMAIL VARCHAR(150),
-PRIMARY KEY(ID));*/         //Espero que não esqueça isso aqui.
+PRIMARY KEY(ID));*/         //Criar tabela no banco de dados
 
 public class TelaPrincipal extends javax.swing.JFrame {
     
