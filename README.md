@@ -8,7 +8,7 @@ Ao abrir o programa, é apresentado um menu com 3 opções:
 - Pesquisa
 - Banco de dados
 
-![image](https://github.com/matheusrodf/Agenda-de-Contatos/assets/139105968/8919e612-60b9-4086-b875-7338d101c9b7)
+![image](https://github.com/matheusrodf/Agenda-de-Contatos/assets/139105968/9c773300-d271-4239-b8cf-ccd65199bf7e)
 
 
 Na opção de cadastro, é apresentado campos de texto para que se adicione informações do contato a ser salvo, como:
@@ -18,7 +18,7 @@ Na opção de cadastro, é apresentado campos de texto para que se adicione info
 - Endereço
 - E-mail
   
-![image](https://github.com/matheusrodf/Agenda-de-Contatos/assets/139105968/f7f2c1e9-3ed9-407e-9e02-773d6cd3ab1c)
+![image](https://github.com/matheusrodf/Agenda-de-Contatos/assets/139105968/e3e86b09-cfa0-4966-8ed3-bb454699b89f)
 
 Ao clicar em cadastrar, o programa tenta se conectar com o banco de dados, e se conseguir, insere as informações lá.
 
@@ -27,18 +27,18 @@ Na parte de pesquisa, aparece uma tela com as mesmas informações do cadastro. 
 Se um contato for encontrado, também é possível editar suas informações alterando o campo correspondente ao que se deseja editar e clicar em "editar". É possível também excluir a entrada clicando em excluir.
 O botão limpar serve para limpar os campos para pesquisar outro contato.
 
-![image](https://github.com/matheusrodf/Agenda-de-Contatos/assets/139105968/c31b2095-bbf8-426b-b217-540c151b7096)
+![image](https://github.com/matheusrodf/Agenda-de-Contatos/assets/139105968/4694cba7-3896-46e2-a1e9-f7321fa699ea)
 
-![image](https://github.com/matheusrodf/Agenda-de-Contatos/assets/139105968/6ee5e398-cea8-4f1c-a253-f4235f78a55f)
+![image](https://github.com/matheusrodf/Agenda-de-Contatos/assets/139105968/e6b0e961-0c8d-4426-a6d5-871a547e891b)
 
 
 Na opção de banco de dados, pede login e senha (que é hardcoded como "admin" "admin").
 
-![image](https://github.com/matheusrodf/Agenda-de-Contatos/assets/139105968/707fb064-b68f-4941-bbee-ecc3ec345666)
+![image](https://github.com/matheusrodf/Agenda-de-Contatos/assets/139105968/170f3ad3-0c0d-4cf7-9e7f-9f9340eaeec1)
 
 
 E então abre uma tela para gerenciar o banco de dados, onde é possível limpar todo banco de dados, os visualizar todas as entradas em uma tabela.
 
-![image](https://github.com/matheusrodf/Agenda-de-Contatos/assets/139105968/e9fb9bed-d29b-4547-8f22-a67e19a0e323)
+![image](https://github.com/matheusrodf/Agenda-de-Contatos/assets/139105968/46cf0b84-7e19-433e-90dc-03e6a16832f6)
 
-![image](https://github.com/matheusrodf/Agenda-de-Contatos/assets/139105968/e4d3c3d3-9594-4261-9d82-7c646f4059b7)
+![image](https://github.com/matheusrodf/Agenda-de-Contatos/assets/139105968/77813231-69bb-49e9-ae05-775d1cc18b8e)
